@@ -1,3 +1,6 @@
+I have made my own modifications to these templates.
+Credit goes go my good friend Taka for the original idea and template creation.
+
 The best way to use this file is to make copies of the table with the Host information.  This will ensure the heading style doesn't change so that your table of contents will update properly.
 
 For information about the Table of Contents feature in Microsoft Word, go to the website listed below.
